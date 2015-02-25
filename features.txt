@@ -1,0 +1,10 @@
+Users
+	- Patients
+	- Doctors
+
+1. As a patient I should be able to create an account
+2. As a patient I should be able to login into the system
+3. As a patient I should be able to place an appointment
+4. As a patient I should be able to cancel an appointment
+5. As a doctor I should be able to provide my schedule
+6. As a doctor I shoukd be able to change my schedule   
