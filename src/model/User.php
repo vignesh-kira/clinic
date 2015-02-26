@@ -16,6 +16,28 @@ class User {
 	public function getFirstName() {
 		return $this->firstName;
 	}
+	public function setFirstName(){
+		
+	}
+	public function getLastName(){
+		
+	}
+	public function setLastName(){
+		
+	}
+	public function getUserName(){
+		
+	}
+	public function setUserName(){
+		
+	}
+	public function getPassword(){
+		
+	}
+	public function setPassowrd(){
+		
+	}
+	
 	public function login($username, $password) {
 		$userDao = new UserDao ();
 		$user = $userDao->getUserbyUsername ( $username );
